@@ -134,7 +134,7 @@ const router = createRouter({
       }
     },
     {
-      path: '/privacy',
+      path: '/privacy-policy',
       name: 'privacy',
       component: privacy,
       meta: {

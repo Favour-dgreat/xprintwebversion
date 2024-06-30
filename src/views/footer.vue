@@ -124,7 +124,7 @@
 
           <ul class="mt-6 space-y-1">
             <li>
-            <router-link to="/privacy"
+            <router-link to="/privacy-policy"
                 ><a class="text-gray-700 transition hover:text-gray-700/75" 
                 >Privacy Policy
               </a></router-link
